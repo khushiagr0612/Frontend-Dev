@@ -1,0 +1,36 @@
+
+.container{
+    width: 600px;
+    height: 1600px;
+    background-color:grey;
+    margin:0 auto;
+    
+}
+.box1{
+    width:200px;
+    height:200px;
+    border:10px solid red;
+    /* box-sizing:border-box; */
+    
+
+}
+.box2{
+    width:200px;
+    height:200px;
+    border:10px solid rgb(0,255,72);
+    /* box-sizing:border-box; */
+    position:sticky;
+    top:0px;
+    right:0px;
+
+}
+.box3{
+    width:200px;
+    height:200px;
+    border:10px solid blue;
+    box-sizing:border-box;
+    
+    top:0px;
+    right:0px;
+
+}

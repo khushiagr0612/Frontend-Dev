@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;  
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: grey;
+    align-items: center;
+    
+}
+.parent.box2.box3.box1{
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box1{
+    border-radius: 10%;
+}
+.image-container img{
+    width: 50px;
+    border-radius: 42%;
+    
+    height: auto;
+    align-items: center;
+
+}
+.head {
+    text-align: center;
+}
