@@ -13,7 +13,10 @@
 *Topics:*
 - HTML Structure, Tags, and Elements  
 - Semantic HTML  
-- Lists, Links, Headings, Paragraphs, Images  
+- Lists, Links, Headings, Paragraphs, Images
+
+*🧩 Task:*
+  Create a timetable using the HTML <table> tag and practice running it on Live Server to see how it renders in the browser.
 
 *📘 Assignments:*
 - Submission: Intro to Web Development  
@@ -27,7 +30,8 @@
 - Attributes, Headings, Paragraphs, Tables  
 - Dropdowns, Lists, Quotations, and Layout  
 - HTML Forms and Input Types  
-- <marquee> tag demonstration  
+- <marquee> tag demonstration
+  
 
 ---
 
@@ -92,6 +96,9 @@
 - Filters and Responsive Design  
 - Media Queries  
 - Making layouts adaptable for different screen sizes  
-- Responsive Design Cheat Sheet  
+- Responsive Design Cheat Sheet
+
+*🧩 Task:*
+- Design a responsive card UI with a title, image, and text, including a hover transition effect to enhance interactivity and better understand responsiveness.
 
 ---# Frontend-Dev
